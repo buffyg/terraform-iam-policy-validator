@@ -5,3 +5,4 @@ __pycache__/
 dist/
 *.code-workspace
 .DS_Store
+.idea/
