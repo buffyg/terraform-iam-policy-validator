@@ -4,3 +4,4 @@ __pycache__/
 .vscode/
 dist/
 *.code-workspace
+.DS_Store
